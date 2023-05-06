@@ -17,7 +17,7 @@ data = {
             {
             "name": "Mango", 
             "description": "This is a mango fruit",
-            "date": datetime.now()
+            "date": datetime.now() 
         }
     ]
 } 
